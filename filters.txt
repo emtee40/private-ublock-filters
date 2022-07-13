@@ -7,3 +7,7 @@ www.wongnai.com##div.bwIFnV.koutk4-1.koutk4-0 > div > .hszcKq.tefa6x-0
 # Matomo
 ||ononoki.org/m/m.js$script,1p
 ||ononoki.org/m/m.php$image,1p
+
+# Plausible
+||api.privacyguides.net/api/event$xhr,domain=www.privacyguides.org
+||api.privacyguides.net/js/script.js$script,domain=www.privacyguides.org
