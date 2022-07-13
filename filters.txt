@@ -3,3 +3,7 @@ brandinside.asia##.td-pb-span4.vc_column_container.wpb_column.td_uid_7_6094d4a05
 brandinside.asia##.td-social-style-2.footer-social-wrap > .block-title
 www.wongnai.com##.slick-initialized._1Kc2aBZHSJuom2n1XAUbXN._2umNYxT0KN38nOmUq4qtb8.slick-slider > .slick-list > .slick-track > .slick-current.slick-active.slick-slide > div > div
 www.wongnai.com##div.bwIFnV.koutk4-1.koutk4-0 > div > .hszcKq.tefa6x-0
+
+# Matomo
+||ononoki.org/m/m.js$script,1p
+||ononoki.org/m/m.php$image,1p
